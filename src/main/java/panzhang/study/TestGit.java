@@ -7,5 +7,6 @@ public class TestGit {
         System.out.println("hello git 3");
         System.out.println("hello git 4");
         System.out.println("master change");
+        System.out.println("push test");
     }
 }
